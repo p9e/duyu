@@ -1,0 +1,13 @@
+.hip { font: max(5vw, 20pt)/1.618 sans-serif }
+.lip { display: contents; list-style: none }
+.bit { font: 400 2em sans-serif }
+.dob { font-size: max(.66rem, 20pt) }
+.dop { margin-block-start: 5em }
+.nip :focus { outline: medium groove }
+.nap { display: none }
+.pad { padding: 1ex }
+.wub { font-weight: bolder }
+.wuv { text-decoration-style: wavy }
+.wah :focus { outline: thick double }
+.wah :hover { text-decoration-style: double }
+.rub { word-spacing: 1px }
